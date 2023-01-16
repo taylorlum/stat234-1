@@ -1,2 +1,2 @@
 # stat234
- repo for code and data used in stat 234
+Code and data used in stat 234 at St. Lawrence University
